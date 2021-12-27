@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @srunkimleang
-- 👀 I’m interested in Backend Development and Trying New things
+- 👀 I’m interested in Backend Development, Mobile Application, Odoo and Trying New things
 - 🌱 I’m currently learning Flask Framework for my current project.
 - 💞️ I’m looking to collaborate on any project in order to enhance my skillsets
 and I do believe in hard-working because at the end of the day you will achieve anything you want.
